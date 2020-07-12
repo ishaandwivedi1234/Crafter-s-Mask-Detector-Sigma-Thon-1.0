@@ -1,4 +1,4 @@
-# Code-Crafters---Juet-Hacks-2020 || Crafter's Mask Detector 
+# Crafter's Mask Detector 
 
 Setting Up Environment To run :
 
